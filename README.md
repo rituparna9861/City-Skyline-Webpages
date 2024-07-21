@@ -1,4 +1,4 @@
-# City-Skyline-Webpages
+# City-Skyline-Webpage -- Day
 This project showcases two webpages representing a city skyline in different times of the day: daytime and nighttime. The primary objective of this project was to explore and utilize CSS variables for dynamic styling and to gain hands-on experience with modern CSS features.
 
 #Features
@@ -17,7 +17,7 @@ Key CSS Variables:
 
 How to Use
 Clone or Download: Clone the repository or download the project files to your local machine.
-Open the Files: Navigate to the project directory and open the day.html file in your web browser to view the city skylines.
+Open the Files: Navigate to the project directory and open the cityday.html file in your web browser to view the city skylines.
 Customize: Modify the CSS variables in the styles.css file to experiment with different color schemes and styling options.
 
 Note: Visit the next repository for Night view.
